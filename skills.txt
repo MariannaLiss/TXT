@@ -1,0 +1,9 @@
+Skills to the cource
+GIT 
+HTTP
+Java Script
+SQL
+Postman
+Charles
+Android Studio
+XCODE
