@@ -1,1 +1,7 @@
-
+STEPS
+STEP 1 Log In
+STEP 2 Open Chat Dialog
+STEP 3 Click on settings button ---> Add user
+STEP 4 Add any user to the conversation
+STEP 5 Try to rename this group conversation
+ACTUAL RESULT Rename button is disabled
